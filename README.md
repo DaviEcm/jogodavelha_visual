@@ -1,4 +1,4 @@
-# Jogo da Velha - [Versão Console / Versão Visual]
+# Jogo da Velha - [Versão Visual]
 Esse é um projeto de um jogo da velha que foi criado na linguagem de programaçã em Python para praticar lógica, estruturas de controle e boas práticas de desenvolvimento. 
 e foi desenvolvido no Curso técnico do Senac DF em desenvolvimento de sistemas com o professor Alexandre
 
